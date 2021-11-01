@@ -1,8 +1,8 @@
 <?php 
-$servername = "localhost";
-$username = "root";
-$password = "";
-$dbname = "database";
+$servername = "ec2-54-210-226-209.compute-1.amazonaws.com";
+$username = "msxdmzqpabnbos";
+$password = "6aae8d639554200dd4e9ae9bef836c42d3991f22932a19e13fc5c9ad7fa0839f";
+$dbname = "dump";
 
 function validar(){
     session_start();
