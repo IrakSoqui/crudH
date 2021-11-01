@@ -93,7 +93,7 @@ COPY public.usuario (employeeid, employeefirstname, employeelastname1, employeel
 414141	Benja	Reynoso	\N	87059041	gfas34564756756741	fdxg56546441	34566xd41	benju@gmail.com	en algun lugar	81dc9bdb52d04dc20036dbd8313ed055
 786675	paul	arv	\N	871593999	jfas3456474675999	gdxg11546999	145697x1dx	brr@gmail.com	en algun lugar	81dc9bdb52d04dc20036dbd8313ed055
 414141	Noe	Reynoso	Aguirre	66algo23451	REAN990123HSRYGX04	JFDJGLSDKKT3A	564315PS	deeper41swg@gmail.com		123
-414141	Noe	Reynoso	Aguirre	66algo23451	REAN990123HSRYGX04	JFDJGLSDKKT3A	564315PS	deeper41swg@gmail.com		123
+414141	Irak Darek Ortiz Soqui	66algo23451	REAN990123HSRYGX04	JFDJGLSDKKT3A	564315PS	deeper41swg@gmail.com		123
 \.
 
 
